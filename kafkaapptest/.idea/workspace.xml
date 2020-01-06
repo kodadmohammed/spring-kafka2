@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40a2758a-2acf-43cf-8a49-fc4e1e6eba3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ukh5R3NESbg8Fsf9hPqt8NzQxa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.Docker">
+    <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerApp" />
+      <module name="kafkaapptest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerAppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProducerAppTest" />
+      <module name="kafkaapptest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerApp" />
+        <item itemvalue="Application.ProducerAppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a2758a-2acf-43cf-8a49-fc4e1e6eba3a" name="Default Changelist" comment="" />
+      <created>1575906316388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575906316388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#Docker" timestamp="1578322975371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="0" key="#Docker/0.0.1366.738@0.0.1366.738" timestamp="1578322975371" />
+    <state x="443" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578321694048">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="443" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1578321694048" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1577306433107">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1577306433107" />
+    <state width="1286" height="244" key="GridCell.Tab.0.bottom" timestamp="1578323101842">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578323101842" />
+    <state width="1286" height="244" key="GridCell.Tab.0.center" timestamp="1578323101842">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578323101842" />
+    <state width="1286" height="244" key="GridCell.Tab.0.left" timestamp="1578323101842">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578323101842" />
+    <state width="1286" height="244" key="GridCell.Tab.0.right" timestamp="1578323101842">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578323101842" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1576518961506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576518961506" />
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1578323153698">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1578323153698" />
+    <state x="65" y="0" key="new project wizard" timestamp="1577262313911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1577262313911" />
+    <state x="339" y="167" width="672" height="677" key="run.anything.popup" timestamp="1578321466958">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1578321466958" />
+  </component>
+</project>
